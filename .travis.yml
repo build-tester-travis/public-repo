@@ -1,11 +1,11 @@
-#test2
+#focal
 os: linux
 
 language: java
 services:
   - docker
 cache: bundler
-dist: bionic
+dist: focal
 
 install: skip
 
