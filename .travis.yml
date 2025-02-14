@@ -1,4 +1,4 @@
-#bionic
+#test
 os: linux
 
 language: java
